@@ -1,0 +1,13 @@
+npm install -g mongodb-realm-cli
+realm-cli login --api-key <API PUBLIC KEY> --private-api-key <API PRIVATE KEY>
+realm-cli pull --remote react-realm-demo-app-service-clbmz           and select project -> Creates folder for the app service
+
+Install Mongodb extension
+Connect to the databases mongodb+srv://<username>:<password>@<servername>.****.mongodb.net/test
+
+Enable Email/password authentication
+Use following url to reset password: https://tiny.cc/react-realm-demo-reset-password
+
+
+
+Create realm-test folder and try realm connection

@@ -1,0 +1,8 @@
+{
+    "app_id": "react-realm-demo-app-service-clbmz",
+    "config_version": 20210101,
+    "name": "react-realm-demo-app-service",
+    "location": "US-VA",
+    "provider_region": "azure-eastus2",
+    "deployment_model": "LOCAL"
+}

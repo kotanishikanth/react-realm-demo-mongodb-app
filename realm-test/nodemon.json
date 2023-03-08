@@ -1,0 +1,7 @@
+{
+    "watch": ["./app.ts", "./src/**/*.ts", "./data/**/*.ts"],
+    "ignore": "./src/earlybound-classes/**/*.ts",
+    "execMap": {
+      "ts": "ts-node"
+    }
+  }
